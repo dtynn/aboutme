@@ -29,7 +29,7 @@
 * **服务器部署** 及nginx配置  
 基于CentOS的服务器部署，编写并使用用于自动分发/部署的脚本，了解nginx的基本配置；
 
-* **Socket.io**
+* **Socket.io**开发
 独立完成基于Socket.io(前端)/tornadio2(后端)/redis pub-sub(消息队列)功能的聊天室、IM系统的开发及部署
 
 * **XMPP**(即时信息)服务器的部署集群
