@@ -20,7 +20,7 @@
 * WEB开发: **tornado/web.py**  
 公司业务全部使用tornado开发，个人业余的 [小玩具](http://atlvtu.sinaapp.com/index) 使用web.py写成；
   
-* 数据库： **MySQL/Redis/Mongo**  
+* 数据库： **MySQL/Redis/MongoDB**
 大量业务场景使用MySQL/Redis，MongoDB使用较少；
   
 * 前端基础： **HTML/CSS/JQuery**  
@@ -29,9 +29,11 @@
 * **服务器部署** 及nginx配置  
 基于CentOS的服务器部署，编写并使用用于自动分发/部署的脚本，了解nginx的基本配置；
 
+* **Socket.io**
+独立完成基于Socket.io(前端)/tornadio2(后端)/redis pub-sub(消息队列)功能的聊天室、IM系统的开发及部署
+
 * **XMPP**(即时信息)服务器的部署集群
 独立完成ejabberd(开源的xmpp服务器)从学习到配置、集群、部署的全过程，并基于业务需求编写相应的应答机器人。
-
 
 * **FastDFS**(分布式文件存储)、 **RTMP** (直播视频流)服务器的部署集群：  
 业务中有所接触，了解基本的配置及部署；
