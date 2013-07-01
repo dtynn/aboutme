@@ -21,7 +21,7 @@
 公司业务全部使用tornado开发，个人业余的 [小玩具](http://atlvtu.sinaapp.com/index) 使用web.py写成；
   
 * 数据库： **MySQL/Redis/MongoDB**
-大量业务场景使用MySQL/Redis，MongoDB使用较少；
+  大量业务场景使用MySQL/Redis，MongoDB使用较少；
   
 * 前端基础： **HTML/CSS/JQuery**  
 写过少量的js，对HTML/CSS有一些基本了解；
