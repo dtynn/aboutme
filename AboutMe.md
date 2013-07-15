@@ -19,6 +19,7 @@
 ### 个人技能栈
 * WEB开发: **tornado/web.py**  
 公司业务全部使用tornado开发，个人业余的 [小玩具](http://atlvtu.sinaapp.com/index) 使用web.py写成；
+[自用图片分享应用](http://www.tuktalk.com);
   
 * 数据库： **MySQL/Redis/MongoDB**  
 大量业务场景使用MySQL/Redis，MongoDB使用较少；
@@ -45,5 +46,10 @@
 * 不是科班出生，但善于学习，也很明白自己的缺点所在。
 * 不一定算一个标准的GEEK，但对新鲜事物有饥渴感。
 * 不一定能提供最佳的创意，但一定能提供优秀的执行力。
+
+------
+
+### 博女友一笑
+为博女友一笑，收集笑脸与祝福。烦请看到此处的您百忙之中抽空分享您的笑容与祝福，[传送门](http://www.tuktalk.com/love)。
 
 ------
