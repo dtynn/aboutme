@@ -19,7 +19,7 @@
 ### 个人技能栈
 * WEB开发: **tornado/web.py**  
 公司业务全部使用tornado开发，个人业余的 [小玩具](http://atlvtu.sinaapp.com/index) 使用web.py写成；  
-[自用图片分享应用](http://www.tuktalk.com);  
+[自用图片分享应用](http://www.tuktalk.com) 使用tornado+jquery+bootstrap独立搭建完成;
   
 * 数据库： **MySQL/Redis/MongoDB**  
 大量业务场景使用MySQL/Redis，MongoDB使用较少；
