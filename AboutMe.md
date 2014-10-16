@@ -6,24 +6,28 @@
 * 教育背景: 2006.08~2010.06 西安电子科技大学 **微电子学**专业 本科毕业
 * email: dtynn@163.com  
 * [github: https://github.com/dtynn ](https://github.com/dtynn)
+* [Blog: dtynn.me](http://dtynn.me)
 
 ------
 
 #### IT类工作经历
-* 2012.10~2013.06 某视频直播类网站 **后端工程师**  
+* 2012.10~2013.06 上海某公司, 产品为视频直播类网站 **后端工程师**  
 主要负责直播、聊天、消息广播系统的开发  
 
 * 2013.07~2014.05 某云存储公司 **技术支持工程师**  
 主要负责提供客户接入方案、维护demo、sdk、开发工具等
 
+* 2014.07 ~ 至今 上海某公司, 产品为建站工具类应用 **后端工程师**  
+负责后端的功能实现、架构设计、应用部署
+
 ------
 
 #### 个人技能栈
-* WEB开发: **tornado/web.py/beego(golang)**  
-大量使用tornado开发;  
+* WEB开发: **flask/tornado/web.py/beego(golang)**  
+过往工作中主要使用tornado/flask开发;  
 个人业余的 [小玩具: http://atlvtu.sinaapp.com/index ](http://atlvtu.sinaapp.com/index) 使用web.py写成;  
 [自用图片分享应用: http://www.tuktalk.com ](http://www.tuktalk.com) 使用tornado+jquery+bootstrap独立搭建完成;  
-使用beego进行小规模的练习实践;  
+个人博客使用自己编写的 [静态博客系统](https://github.com/dtynn/pyco) 搭建;  
 
 * 前端基础: **HTML/CSS/JQuery/AngularJS**  
 简单粗暴地完成前端页面布局和交互;  
@@ -33,9 +37,11 @@
 
 * **Golang**  
 第二份工作中使用golang，维护、开发一些工具;  
+几个未公开的项目使用beego进行开发;  
 
 * 其他  
 服务部署: nginx、FastDFS、RMTP等服务的部署，自动化脚本的编写使用;  
 **socket.io**: 基于socket.io/tornadio2/resid pub-sub功能的IM系统开发;  
 **XMPP**: ejabberd服务器的配置部署，以及根据业务场景编写的自动应答Client;  
 IOS: [学习中: https://github.com/dtynn/kanjian.box ](https://github.com/dtynn/kanjian.box);  
+**docker**: 一些业务基于 docker 部署，包括 docker image 的构建，以及相关的工具链编写;  
