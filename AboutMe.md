@@ -6,7 +6,6 @@
 * 教育背景: 2006.08~2010.06 西安电子科技大学 **微电子学**专业 本科毕业
 * email: dtynn@163.com  
 * [github: https://github.com/dtynn ](https://github.com/dtynn)
-* [Blog: dtynn.me](http://dtynn.me)
 
 ------
 
