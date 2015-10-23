@@ -17,27 +17,27 @@
 * 2013.07~2014.05 某云存储公司 **技术支持工程师**  
 主要负责提供客户接入方案、维护demo、sdk、开发工具等
 
-* 2014.07 ~ 至今 上海某公司, 产品为建站工具类应用 **后端工程师**  
-负责后端的功能实现、架构设计、应用部署
+* 2014.10 ~ 2015.04 某云存储公司 **后端工程师**  
+负责内部工单系统后端功能实现、架构设计、应用部署
 
 ------
 
 #### 个人技能栈
-* WEB开发: **flask/tornado/web.py/beego(golang)**  
-过往工作中主要使用tornado/flask开发;  
+* WEB开发: **flask/tornado/web.py/beego/echo/goji**  
+过往工作中主要使用tornado/flask/echo 进行开发;  
 个人业余的 [小玩具: http://atlvtu.sinaapp.com/index ](http://atlvtu.sinaapp.com/index) 使用web.py写成;  
-[自用图片分享应用: http://www.tuktalk.com ](http://www.tuktalk.com) 使用tornado+jquery+bootstrap独立搭建完成;  
-个人博客使用自己编写的 [静态博客系统](https://github.com/dtynn/pyco) 搭建;  
+[自用图片分享应用: http://www.tuktalk.com ](https://gitcafe.com/DTynn/tuktalk_open) 使用tornado+jquery+bootstrap独立搭建完成;  
+个人博客使用自己编写的 [静态博客系统](https://github.com/dtynn/pyco) 搭建;   
+近期编写的一些项目或工具位于 [https://github.com/tukdesk](https://github.com/tukdesk) 
 
 * 前端基础: **HTML/CSS/JQuery/AngularJS**  
 简单粗暴地完成前端页面布局和交互;  
   
-* 数据库: **MySQL/Redis/MongoDB/SSDB**  
-大量业务场景使用MySQL/Redis，MongoDB使用较少;曾尝试使用SSDB;    
+* 数据库: **MySQL/Redis/MongoDB/SSDB/ledisdb等**  
+大量业务场景使用MySQL/Redis/MongoDB; 业务项目中曾尝试使用SSDB, ledisdb 等;    
 
 * **Golang**  
-第二份工作中使用golang，维护、开发一些工具;  
-几个未公开的项目使用beego进行开发;  
+现主要使用 golang 进行开发, 并尝试造一些轮子/参与一些开源项目
 
 * 其他  
 服务部署: nginx、FastDFS、RMTP等服务的部署，自动化脚本的编写使用;  
